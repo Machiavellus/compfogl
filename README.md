@@ -15,3 +15,4 @@ Competitive L4D2 Config
 - Smoker tongues are a bit harder to juke behind poles and similar obstacles.
 - The pumpshotgun has had it's spread slightly decreased to make it more on par with the chrome shotgun.
 - Smoker now has 275 Health
+- M2 warp disabled
