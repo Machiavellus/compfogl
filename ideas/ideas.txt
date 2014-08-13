@@ -1,0 +1,6 @@
+Enable ghost sacking after round goes live.
+Make out of map spots either kill or blocked. Official ruling on what is death charges.
+Remove escape tank from Parish 5.
+Saferoom rage tank plugin.
+Limit melee weapon spawns per map, rather than a weapon limit.
+Reworked gas cans?
