@@ -4,3 +4,4 @@ Remove escape tank from Parish 5.
 Saferoom rage tank plugin.
 Limit melee weapon spawns per map, rather than a weapon limit.
 Reworked gas cans?
+Fix the deathtoll fix that no one noticed for 7 years.
