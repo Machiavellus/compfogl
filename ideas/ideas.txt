@@ -4,11 +4,8 @@ Remove escape tank from Parish 5.
 Saferoom rage tank plugin.
 Limit melee weapon spawns per map, rather than a weapon limit.
 Reworked gas cans?
-Fix the deathtoll fix that no one noticed for 7 years.
 Make Draw cr0wns worth 10 instead of 20. Full cr0wns still 20. 
 Find me the unfinished witch control plugin
-for fucks sake disable the c2m4 moustachio event already. 
-
 
 
 Death Charges:
