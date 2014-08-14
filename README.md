@@ -17,3 +17,4 @@ Competitive L4D2 Config
 - Smokers health increased to 275.
 - Dark Carnival 4 "Moustachio" Horde completely removed.
 - Infected M2 ghost warp disabled.
+- Blocked 3 exploit jumps on Death Toll 3 which allowed survivors to get past the train car choke faster.
