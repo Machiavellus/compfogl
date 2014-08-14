@@ -14,4 +14,5 @@ Competitive L4D2 Config
 - Smoker choke damage per second increased from 5 to 6.25.
 - Smoker tongues are a bit harder to juke behind poles and similar obstacles.
 - The pumpshotgun has had it's spread slightly decreased to make it more on par with the chrome shotgun.
-- Smoker now has 275 Health
+- Smokers health increased to 275.
+- Dark Carnival 4 "Moustachio" Horde completely removed.
