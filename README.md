@@ -16,3 +16,4 @@ Competitive L4D2 Config
 - The pumpshotgun has had it's spread slightly decreased to make it more on par with the chrome shotgun.
 - Smokers health increased to 275.
 - Dark Carnival 4 "Moustachio" Horde completely removed.
+- Infected M2 ghost warp disabled.
