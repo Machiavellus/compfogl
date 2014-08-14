@@ -18,3 +18,5 @@ Competitive L4D2 Config
 - Dark Carnival 4 "Moustachio" Horde completely removed.
 - Infected M2 ghost warp disabled.
 - Blocked 3 exploit jumps on Death Toll 3 which allowed survivors to get past the train car choke faster.
+
+CONFIG DOES NOT SEEM TO LOAD confogl.cfg. loading compfogl provides shotgun with default ammo, no pills upon leaving saferoom, hr spawns without limits. no idea why. investigate. had problem before with 2v2 config that randomly resolved itself.
