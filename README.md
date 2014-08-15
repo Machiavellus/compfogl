@@ -11,10 +11,12 @@ Competitive L4D2 Config
 - The tank is ten units faster than the survivors.
 - Smokers tongues pull faster and require more precise reaction time to shut down. 
 - Smoker drag damage reduced from 3 to 2.
-- Smoker choke damage per second increased from 5 to 6.25.
+- Smoker choke damage per second increased from 5 to 6.5.
 - Smoker tongues are a bit harder to juke behind poles and similar obstacles.
 - The pumpshotgun has had it's spread slightly decreased to make it more on par with the chrome shotgun.
 - Smokers health increased to 275.
 - Dark Carnival 4 "Moustachio" Horde completely removed.
 - Infected M2 ghost warp disabled.
 - Blocked 3 exploit jumps on Death Toll 3 which allowed survivors to get past the train car choke faster.
+- Smokers and hunters now have continuous damage ticks similar to jockeys.
+- Infected Ghost Hurt protection is now removed when the round goes live, meaning you can sack spawns while survivors are in saferoom after RUP.
