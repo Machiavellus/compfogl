@@ -18,10 +18,7 @@ Competitive L4D2 Config
 - Dark Carnival 4 "Moustachio" Horde completely removed.
 - Infected M2 ghost warp disabled.
 - Blocked 3 exploit jumps on Death Toll 3 which allowed survivors to get past the train car choke faster.
-<<<<<<< HEAD
-
-CONFIG DOES NOT SEEM TO LOAD confogl.cfg. loading compfogl provides shotgun with default ammo, no pills upon leaving saferoom, hr spawns without limits. no idea why. investigate. had problem before with 2v2 config that randomly resolved itself.
-=======
 - Smokers and hunters now have continuous damage ticks similar to jockeys.
 - Infected Ghost Hurt protection is now removed when the round goes live, meaning you can sack spawns while survivors are in saferoom after RUP.
->>>>>>> origin/master
+
+CONFIG DOES NOT SEEM TO LOAD confogl.cfg. loading compfogl provides shotgun with default ammo, no pills upon leaving saferoom, hr spawns without limits. no idea why. investigate. had problem before with 2v2 config that randomly resolved itself.
