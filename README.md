@@ -20,5 +20,8 @@ Competitive L4D2 Config
 - Blocked 3 exploit jumps on Death Toll 3 which allowed survivors to get past the train car choke faster.
 - Smokers and hunters now have continuous damage ticks similar to jockeys.
 - Infected Ghost Hurt protection is now removed when the round goes live, meaning you can sack spawns while survivors are in saferoom after RUP.
+- Config actually loads and works again.
 
-CONFIG DOES NOT SEEM TO LOAD confogl.cfg. loading compfogl provides shotgun with default ammo, no pills upon leaving saferoom, hr spawns without limits. no idea why. investigate. had problem before with 2v2 config that randomly resolved itself.
+confogl.cfg and compfogl.cfg were split and pieces of each were added to compfogl2.cfg I also removed a large number of the comments from confogl.cfg. That and a few other petty fixes basically to tidy up some loose ends has thus fixed the config and it is again in working order. 
+When adding to the config it must be considered which file you are adding changes to, so as to not allow any of the three files to exceed an apparent arbitrary filesize limit that was previously causing .cfg's to load improperly.
+Thanks to ProdigySim for all the help regarding this issue. 
