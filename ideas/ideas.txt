@@ -5,6 +5,7 @@ Limit melee weapon spawns per map, rather than a weapon limit.
 Reworked gas cans?
 Make Draw cr0wns worth 10 instead of 20. Full cr0wns still 20. 
 Find me the unfinished witch control plugin
+Add fences to HR2/3 to make death charge window much smaller due to smoker tongue being so fast that it's basically a free death charge unless the guy getting pulled cuts the tongue and an uzi kills smoker
 
 
 Death Charges:
